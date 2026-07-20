@@ -96,26 +96,3 @@ Time = (N^L) / 2 / guesses_per_second
 | PCI-DSS 4.0 | 12 | Upper + Number + Symbol |
 | ISO 27001 | 12 | 3+ character types |
 | HIPAA | 8 | Mixed types |
-
----
-
-## 👨‍💻 Author
-
-**Chiranth S** — CEH | B.E. Cyber Security, ATME College of Engineering, Mysore
-
----
-
-## 📦 Part of 10-Project Cybersecurity Suite
-
-| # | Project | Status |
-|---|---|---|
-| 1 | File Type ID Tool | ✅ |
-| 2 | Phishing Email Simulator | ✅ |
-| 3 | Network Discovery Toolkit | ✅ |
-| 4 | Live Cyber Threat Dashboard | ✅ |
-| 5 | Password Policy Analyzer | ✅ **This project** |
-| 6 | Caesar Cipher + Frequency Analysis | 🔜 |
-| 7 | DoS Attack Detector | 🔜 |
-| 8 | Secure File Sharing | 🔜 |
-| 9 | IDS Lab | 🔜 |
-| 10 | Web App Vulnerability Scanner | 🔜 |
